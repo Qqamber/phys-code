@@ -2,9 +2,15 @@
 
 ## DMRG
 
-A finite and infinite dmrg based on white's paper.
+A finite and infinite dmrg based on White's paper.
 
 Refer to [Density matrix formulation for quantum renormalization groups](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.69.2863) and [Density-matrix algorithms for quantum renormalization groups](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.10345) for details.
+
+And also a dmrg code based on mps.
+
+In mathematica, we use `TensorContract`, `TensorProduct`, `ArrayReshape` and `Transpose` to handle the index implementations.
+
+Refer to [Empter's note](https://github.com/empter/DMRGwithMPSandMPO/blob/master/DMRG_MPS.pdf) for the index convention in the code.
 
 ## iTEBD
 
