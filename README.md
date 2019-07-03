@@ -10,7 +10,7 @@ Refer to [Density matrix formulation for quantum renormalization groups](https:/
 
 A mathematica code for itebd and an itensor version based on Vidal's paper.
 
-Refer to [Efficient classical simulation of slightly entangled quantum computations](https://arxiv.org/abs/quant-ph/0301063), [Efficient simulation of one-dimensional quantum many-body systems](https://arxiv.org/abs/quant-ph/0310089) and [Classical simulation of infinite-size quantum lattice systems in one spatial dimension](Classical simulation of infinite-size quantum lattice systems in one spatial dimension) for details.
+Refer to [Efficient classical simulation of slightly entangled quantum computations](https://arxiv.org/abs/quant-ph/0301063), [Efficient simulation of one-dimensional quantum many-body systems](https://arxiv.org/abs/quant-ph/0310089) and [Classical simulation of infinite-size quantum lattice systems in one spatial dimension](https://arxiv.org/abs/cond-mat/0605597) for details.
 
 ## Model Check
 
