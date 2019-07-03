@@ -1,4 +1,4 @@
-LIBRARY_DIR=/home/qamber/itensor
+LIBRARY_DIR=(path)/ITensor
 
 APP=itebd
 
