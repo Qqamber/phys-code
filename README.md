@@ -18,8 +18,8 @@ A mathematica code for itebd and an itensor version based on Vidal's paper.
 
 Refer to [Efficient classical simulation of slightly entangled quantum computations](https://arxiv.org/abs/quant-ph/0301063), [Efficient simulation of one-dimensional quantum many-body systems](https://arxiv.org/abs/quant-ph/0310089) and [Classical simulation of infinite-size quantum lattice systems in one spatial dimension](https://arxiv.org/abs/cond-mat/0605597) for details.
 
-The itensor version code is based on [Itensor library v3](http://itensor.org/). You can refer to itensor's home page for the installation. A good tutorial on windows OS can refer to [Empter's note](https://github.com/empter/mps-tutorial) too.
+The itensor version code is based on [Itensor library v3](http://itensor.org/). You can refer to itensor's home page for the installation. A good tutorial on windows OS can refer to [Empter's note](https://github.com/empter/mps-tutorial), too.
 
 ## Model Check
 
-A code aims to check the numerical results of the algorithms above, which has an itensor alike interface to handle the Hamiltonian terms.
+A code aims to check the numerical results of the algorithms above for small spin systems, which has an itensor alike interface to handle the Hamiltonian terms.
