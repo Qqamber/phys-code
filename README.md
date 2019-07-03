@@ -8,7 +8,7 @@ Refer to [Density matrix formulation for quantum renormalization groups](https:/
 
 And also a dmrg code based on mps.
 
-In mathematica, we use `TensorContract`, `TensorProduct`, `ArrayReshape` and `Transpose` to handle the index implementations. Ans using `Inactive`, `Activate` with `TensorContract`, `TensorProduc` can improve the performance of the contraction of tensors.
+In mathematica, we use `TensorContract`, `TensorProduct`, `ArrayReshape` and `Transpose` to handle the index implementations. And using `Inactive`, `Activate` with `TensorContract`, `TensorProduc` can improve the performance of the contraction of tensors.
 
 Refer to [Empter's note](https://github.com/empter/DMRGwithMPSandMPO/blob/master/DMRG_MPS.pdf) for the index convention in the code.
 
