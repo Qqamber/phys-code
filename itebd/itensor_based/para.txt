@@ -1,0 +1,14 @@
+input
+{
+	h0 = 1.001 // fig 5
+	h1 = 10 // fig 6
+	h2 = 3
+	precise1 = 10 // fig 5
+	loop1 = 50
+	precise2 = 10 // fig 6
+	loop2 = 50
+	bond = 50
+	tstep = 0.01
+	ttotal = 1
+	length = 10000
+}
