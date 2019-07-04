@@ -1,4 +1,4 @@
-# phy-codes
+# Phy Codes
 
 ## DMRG
 
