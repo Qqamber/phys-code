@@ -1,4 +1,4 @@
-# Physical Codes
+# Physics Codes
 
 ## DMRG
 
