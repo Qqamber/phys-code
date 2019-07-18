@@ -30,4 +30,4 @@ We use the krylov subspace method to implement the action of an exponential of h
 
 ## Model Check
 
-A code aims to check the numerical results of the algorithms above for small spin systems, which has an itensor alike interface to handle the Hamiltonian terms.
+A code aims to check the numerical results of the algorithms above for small spin systems, which has an itensor alike interface to handle the Hamiltonian terms. Partial trace for the system(or environment) is supported.
